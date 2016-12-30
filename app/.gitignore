@@ -1,4 +1,4 @@
 /build
 
 # strings.xml contains facebook app id.
-# /src/main/res/values/strings.xml
+/src/main/res/values/strings.xml
